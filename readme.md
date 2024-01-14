@@ -18,13 +18,7 @@
 - 通过快捷键或按钮标记当前直播间的时间点，使用直播左下角已推流时间进行标记
 	1. 使用按钮
 	    ![btn](https://raw.githubusercontent.com/Xchiliarch/BiliLive-timeStamp/main/pics/btn.png)
-	    
-      ------
-      
-      
-      
-  2. 使用快捷键 【Shift + F】
-  记录后，可在浏览器控制台或在控制面板查看已记录的时间点
+  	2. 使用快捷键 【Shift + F】记录后，可在浏览器控制台或在控制面板查看已记录的时间点
   ![time](https://raw.githubusercontent.com/Xchiliarch/BiliLive-timeStamp/main/pics/time.png)
   
 
