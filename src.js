@@ -12,15 +12,12 @@
 // @run-at		document-start
 // @compatible  chrome  完美支持
 // @license     The MIT License (MIT); http://opensource.org/licenses/MIT
-// @supportURL		
-// @contributionURL	
-// @namespace 
-// ==/UserScript==
- 
- 
+// @homepage	https://github.com/Xchiliarch/BiliLive-timeStamp
+
 //========快捷键列表=======
 //【Ctrl+F2】>>>>>调出控制面板
 //【Ctrl+Alt】>>>>呼出按钮
+//【Shift+F】>>>>标记时间点
 //【Esc】>>>>>>>>>退出控制面板
  
 
