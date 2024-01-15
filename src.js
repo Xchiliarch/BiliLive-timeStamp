@@ -2,7 +2,7 @@
 // @name	Bilibili直播时间记录 BiliLive timeStamp
 // @author	Xchiliarch
 // @description	为B站直播页面添加按钮，通过点击按钮即可记录按下时已开播至今时间点方便后期切片/设置时间跳转评论
-// @version     0.1.0
+// @version     0.1.1
 // @match        *://live.bilibili.com/*
 // @grant       GM_addStyle
 // @grant       GM_getValue
@@ -13,6 +13,7 @@
 // @compatible  chrome  完美支持
 // @license     The MIT License (MIT); http://opensource.org/licenses/MIT
 // @homepage	https://github.com/Xchiliarch/BiliLive-timeStamp
+// ==/UserScript==
 
 //========快捷键列表=======
 //【Ctrl+F2】>>>>>调出控制面板

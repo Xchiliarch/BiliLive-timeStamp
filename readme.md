@@ -12,6 +12,7 @@
 - 【Ctrl + F2】 打开控制面板
 - 【Esc】 退出控制面板
 - 【Shift + F】 添加时间点
+- 【Ctrl +Alt】 弹出按钮
 
 ## 功能：
 
@@ -19,7 +20,17 @@
 	1. 使用按钮
 	    ![btn](https://raw.githubusercontent.com/Xchiliarch/BiliLive-timeStamp/main/pics/btn.png)
   	2. 使用快捷键 【Shift + F】记录后，可在浏览器控制台或在控制面板查看已记录的时间点
-  ![time](https://raw.githubusercontent.com/Xchiliarch/BiliLive-timeStamp/main/pics/time.png)
+      ![time](https://raw.githubusercontent.com/Xchiliarch/BiliLive-timeStamp/main/pics/time.png)
+  
+- 通过按钮导出已记录的时间点（只会导出当前所在直播间的时间点）。导出格式如下：
+
+```
+3:58:00,3:38:00
+```
+
+
+
+
   
 
 ## 面板：
